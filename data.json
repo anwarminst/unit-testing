@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "white sneaker",
+      "description": "First item description",
+      "price": 10.99,
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "name": "black sneaker",
+      "description": "Second item description",
+      "price": 12.99,
+      "image": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": 3,
+      "name": "red sneaker",
+      "description": "Third item description",
+      "price": 15.99,
+      "image": "https://picsum.photos/200/300?random=2"
+    }
+  ]
+}
